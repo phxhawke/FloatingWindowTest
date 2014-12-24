@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Floating Window Test</string>
+    <string name="gravity_select">Select Location of Floating Window</string>
+    <string name="action_settings">Settings</string>
+    <string name="top">Top</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+    <string name="bottom">Bottom</string>
+    <string name="update">Update Floating Window</string>
+    <string name="start">Start Service</string>
+    <string name="stop">Stop Service.</string>
+</resources>
